@@ -1,5 +1,26 @@
 # Daily Learning
 ## Morning Planning
+![Cloudy morning](https://octodex.github.com/images/cloud.jpg)
+<img alt="Cloudy morning" src="https://octodex.github.com/images/cloud.jpg" width="100" align="right">
+
+![Mona the Octocat](myrepo/original.png)
+![Mona the Octocat](https://octodex.github.com/images/original.png)
+
+<img alt="Mona the Octocat" src="https://octodex.github.com/images/original.png"
+width="200" align="right">
+
+
+
+```bash
+git clone https://github.com/skills/communicate-using-markdown
+```
+git clone https://github.com/skills/communicate-using-markdown
+```js
+var myVar = "Hello, world!";
+```
+var myVar = "Hello, world!";
+
+
 Convert an image or video from dark mode to light mode using [ffmpeg](https://www.ffmpeg.org)
 
 ```bash
